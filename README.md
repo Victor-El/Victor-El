@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/victor-el)
 ### Hi there 👋
 
 I'm Victor
@@ -15,4 +16,3 @@ I'm Victor
 
 ![Vic's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victor-el&theme=cobalt&show_icons=true&&line_height=40)
 ![Vic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-el&theme=cobalt&show_icons=true)<br/>
-![Profile views](https://gpvc.arturio.dev/victor-el)
